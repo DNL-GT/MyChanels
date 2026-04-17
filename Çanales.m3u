@@ -16,5 +16,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/
 https://regionales.saohgdasregions.fun:9092/MTkwLjEyOS4xMDEuMTY5/58_.m3u8?token=wQwkOdgn8VlsvzKKD0yvFw&expires=1776416367
 
 
-#EXTINF:-1 tvg-id="Disney Chanel" tvg-logo="https://static.wikia.nocookie.net/disney-wik/images/8/8a/Disney_Channel.jpg" group-title="Cable",Disney Channel
-https://regionales.saohgdasregions.fun:9092/MTkwLjEyOS4xMDEuMTY5/28_.m3u8?token=yPugjff0LgyNNVG46Dvypg&expires=1776438870
+#EXTINF:-1 tvg-id="FX HD" 
+tvg-logo="https://static.wikia.nocookie.net/logosfake/images/e/e1/FX_HD.svg/revision/latest/scale-to-width-down/250?cb=20201109194846" group-title="Cable",FX HD
+https://regionales.saohgdasregions.fun:9092/MTkwLjEyOS4xMDEuMTY5/60_.m3u8?token=JrVaVFw9Vxsphad9cH4Kdw&expires=1776509864
