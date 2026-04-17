@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Red_Unitel.jpg" group-title="Bolivia",Unitel TV
+#EXTINF:-1 tvg-id="UNITEL SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Red_Unitel.jpg" group-title="Bolivia",Unitel SC
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8?uid=XavDZ5LxmJyar3VPIVerkGxrJSRaNOIw&sid=tmLEcI3r7cZiIaRTQwfxhi3PxKsy1wiq&pid=pxq3U5pAUOPj8SGuigxZO3i8uXxjT4fI&pid_dvr=ZpBevZQchmh6NMjC7MZ3WgGYvxowIcNb&an=screen&at=web-app&av=v7.0.19&ref=https%3A%2F%2Funitel.bo%2F&res=384x216&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%22692b7e7ac84183fcf9e3462d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22pxq3U5pAUOPj8SGuigxZO3i8uXxjT4fI%22%2Csu
+
+#EXTINF:-1 tvg-id="UNITEL CBBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Red_Unitel.jpg" group-title="Bolivia",Unitel CBBA
+https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8?uid=XavDZ5LxmJyar3VPIVerkGxrJSRaNOIw&sid=eItIpLjp6hRMzVnArHcqzvNbSSWnRVRP&pid=sonO5RT1X71ua4tgMETIUf4dGdSOnY1G&pid_dvr=SZvptSiAZtYTzWcbZGCY3ySmV2Q5Tddd&an=screen&at=web-app&av=v7.0.24&ref=https%3A%2F%2Funitel.bo%2F&res=384x216&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%22691f2aeb5ac95d286c49af8d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22sonO5RT1X71ua4tgMETIUf4dGdSOnY1G%22%2Csu
+
+#EXTINF:-1 tvg-id="UNITEL LP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Red_Unitel.jpg" group-title="Bolivia",Unitel LP 
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8?uid=XavDZ5LxmJyar3VPIVerkGxrJSRaNOIw&sid=eItIpLjp6hRMzVnArHcqzvNbSSWnRVRP&pid=qo1fCRhXvkdXx3UfXc1RrzRoT7ouetsL&pid_dvr=ihpL0BSzub6x8coOJnFYMMNxkvf3CGsE&an=screen&at=web-app&av=v7.0.24&ref=https%3A%2F%2Funitel.bo%2F&res=384x216&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%226928b14aaa768aad947bf65d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22qo1fCRhXvkdXx3UfXc1RrzRoT7ouetsL%22%2Csu
 
 #EXTINF:-1 tvg-id="Bolivision TV" tvg-logo="https://alba-bo-bolivision.cdn.mediatiquepress.com/wp-content/uploads/2025/06/Carpeta-1-2.png" group-title="Bolivia",Bolivision LP
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/ts:abr.m3u8
